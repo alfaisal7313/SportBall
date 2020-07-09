@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_main" type="id" />
+    <item name="itemLogo" type="id" />
+    <item name="itemTitle" type="id" />
+    <item name="imageDetail" type="id" />
+    <item name="titleDetail" type="id" />
+    <item name="desctiptionDetail" type="id" />
+</resources>

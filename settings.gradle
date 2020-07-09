@@ -1,0 +1,3 @@
+rootProject.name='SportBall'
+include ':app'
+include ':unittesting'
